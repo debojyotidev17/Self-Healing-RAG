@@ -1,0 +1,48 @@
+# Environment Variables & Secrets
+.env
+*.env.local
+
+# Vector Store & Index Storage
+data/chroma_db/
+data/bm25_index.pkl
+
+# Python Caches & Build Files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+
+# Node & Frontend Dependencies
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.vite/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# IDE & OS Specific Files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "question": "What is the equipment stipend for new hires at AcroCorp?",
+    "should_be_answerable": true
+  },
+  {
+    "id": 2,
+    "question": "What is the daily meal reimbursement limit during business travel?",
+    "should_be_answerable": true
+  },
+  {
+    "id": 3,
+    "question": "How many days of annual PTO do full-time employees receive and what is the carryover limit?",
+    "should_be_answerable": true
+  },
+  {
+    "id": 4,
+    "question": "What are the core operating hours for AcroCorp employees?",
+    "should_be_answerable": true
+  },
+  {
+    "id": 5,
+    "question": "What are the API rate limits and execution timeouts for the Cloud Engine Pro tier?",
+    "should_be_answerable": true
+  },
+  {
+    "id": 6,
+    "question": "Which deployment regions are supported by AcroCorp Cloud Engine?",
+    "should_be_answerable": true
+  },
+  {
+    "id": 7,
+    "question": "How do you resolve error ERR-401 (Authentication Token Expired)?",
+    "should_be_answerable": true
+  },
+  {
+    "id": 8,
+    "question": "What is the initial response SLA for P1 Critical incidents?",
+    "should_be_answerable": true
+  },
+  {
+    "id": 9,
+    "question": "What is the token validity period and header format for AcroCorp Cloud Engine?",
+    "should_be_answerable": true
+  },
+  {
+    "id": 10,
+    "question": "What are the RTO and RPO targets for AWS Multi-Region disaster recovery?",
+    "should_be_answerable": true
+  },
+  {
+    "id": 11,
+    "question": "What trust service criteria are audited under AcroCorp's SOC 2 Type II compliance?",
+    "should_be_answerable": true
+  },
+  {
+    "id": 12,
+    "question": "What is the timeline for processing GDPR Data Subject Access Requests (DSAR)?",
+    "should_be_answerable": true
+  },
+  {
+    "id": 13,
+    "question": "What encryption standards are required for HIPAA Protected Health Information (PHI)?",
+    "should_be_answerable": true
+  },
+  {
+    "id": 14,
+    "question": "What is AcroCorp's parental leave and maternity policy?",
+    "should_be_answerable": true
+  },
+  {
+    "id": 15,
+    "question": "Does AcroCorp provide a 401(k) retirement match program?",
+    "should_be_answerable": false
+  },
+  {
+    "id": 16,
+    "question": "What are the stock option vesting schedules for senior engineers?",
+    "should_be_answerable": false
+  },
+  {
+    "id": 17,
+    "question": "What is the pricing per hour for NVIDIA H100 GPU nodes on Cloud Engine?",
+    "should_be_answerable": false
+  },
+  {
+    "id": 18,
+    "question": "What dental and vision insurance plans does AcroCorp offer?",
+    "should_be_answerable": false
+  },
+  {
+    "id": 19,
+    "question": "How do I request a company car for business travel?",
+    "should_be_answerable": false
+  },
+  {
+    "id": 20,
+    "question": "What is the protocol for emergency server room access in London office?",
+    "should_be_answerable": false
+  }
+]
